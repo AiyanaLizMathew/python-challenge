@@ -1,9 +1,9 @@
-### Python- Challenges
+## Python- Challenges
 Project: Python Challenge
 
 This project consist of 4 sub-divisions as mentioned below.
 
-## Project 1: PyBank
+### Project 1: PyBank
 
 In this challenge, we create a Python script for analyzing the financial records of a company. We have two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`) given. Each dataset is composed of two columns: `Date` and `Revenue`. 
 
@@ -33,7 +33,7 @@ Greatest Decrease in Revenue: Aug-12 ($-652794)
 
 In addition, our final script prints the analysis to both the terminal and exports a text file with the results.
 
-## Project 2: PyPoll
+### Project 2: PyPoll
 
 In this challenge, we are tasked with helping a small, rural town modernize its vote-counting process. 
 
@@ -67,7 +67,7 @@ Winner: Gomez
 
 In addition, our final script prints the analysis to both the terminal and exports a text file with the results.
 
-## Project 3: PyBoss
+### Project 3: PyBoss
 
 In this challenge, the Python script bridges the gap converting employee records to the desired format. The script does the following formatting changes.
 
@@ -100,7 +100,7 @@ Emp ID,First Name,Last Name,DOB,SSN,State
   * The `State` data should be re-written as simple two-letter abbreviations.
 
 
-## Option 4: PyParagraph
+### Project 4: PyParagraph
 
 In this challenge, the Python script is responsible for assessing the complexity of various passages of writing, ranging from the sophomoric Twilight novel to the nauseatingly high-minded research article. 
 

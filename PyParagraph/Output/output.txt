@@ -1,0 +1,7 @@
+
+Pargraph Analysis
+-------------------
+Approximate Word Count: 130
+Aprroximate Sentence Count: 5
+Average Letter Count: 6.41
+Average Sentence Count: 26.0
